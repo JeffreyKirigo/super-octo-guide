@@ -4,6 +4,9 @@ C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\WPFU
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\WPFUI.runtimeconfig.dev.json
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\WPFUI.dll
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\WPFUI.pdb
+C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\Engine.dll
+C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\bin\Debug\net5.0-windows\Engine.pdb
+C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.csproj.AssemblyReference.cache
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI_MarkupCompile.cache
@@ -14,6 +17,8 @@ C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFU
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.AssemblyInfoInputs.cache
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.AssemblyInfo.cs
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.sourcelink.json
+C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.csproj.Up2Date
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.dll
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\refint\WPFUI.dll
 C:\Users\SoftClansUser\source\repos\SOSCSRPG\WPFUI\obj\Debug\net5.0-windows\WPFUI.pdb
